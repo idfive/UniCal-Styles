@@ -1,5 +1,5 @@
 name = UniCal Styles
-description = This module holds all neccesary code needed to custom style the unical module.
+description = This module holds all neccesary beginings needed to custom style the unical module.
 core = 7.x
 dependencies[] = unical
 package = UniCal

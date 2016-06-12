@@ -12,7 +12,7 @@ REQUIREMENTS
 
 This module requires the following modules:
 
-* UniCal (https://www.drupal.org/sandbox/rogerseyebyte/2648414)
+* UniCal (https://github.com/idfive/UniCal)
 
 
 INSTALLATION
